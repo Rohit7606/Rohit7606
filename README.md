@@ -17,11 +17,11 @@ Privacy-aware fraud detection system built during a 24-hour national hackathon.
 * Real-time monitoring engine identifying suspicious transaction patterns.
 * Privacy-first architecture designed to maintain sensitive data integrity.
 
-### 2. YarnYatra 🧶
-Supply chain transparency platform for independent weavers, developed for national finals.
-* **National Finalist @ IIT Delhi** (Ranked in Top 10% nationally).
-* QR-based storytelling system verifying authenticity and artisan identity.
-* Blockchain digital fingerprints providing tamper-proof product records.
+### 2. Respira-AI 🫁
+An advanced Clinical Decision Support System (CDSS) engineered for high-precision respiratory diagnosis.
+* **Full-Stack Architecture:** Built with **Next.js 16** (Frontend) and **FastAPI** (Backend) for real-time clinical responsiveness.
+* **Hybrid Clinical Engine:** Powered by **XGBoost** to normalize physiological data against patient demographics (Age/Gender/Height).
+* **Probabilistic Risk:** Delivers granular "Confidence Scores" (0-100%) rather than simple binary classifications, mimicking expert medical reasoning.
 
 ### 3. WattSwap ⚡
 AI-driven P2P energy trading platform optimizing solar sharing in apartments.
@@ -29,11 +29,11 @@ AI-driven P2P energy trading platform optimizing solar sharing in apartments.
 * Blockchain smart contracts for secure, dispute-free automated billing.
 * Engineered logic that secured **direct qualification** into final rounds.
 
-### 4. Respira AI 🫁
-A Clinical Decision Support System (CDSS) designed to predict asthma risks and assist in medical decision-making.
-* Built using **Python** and the **AutoGluon** framework for high-accuracy predictions.
-* Analyzes patient health metrics for early-stage clinical risk assessment.
-* Developed as a core project for healthcare-focused AI applications.
+### 4. YarnYatra 🧶
+Supply chain transparency platform for independent weavers, developed for national finals.
+* **National Finalist @ IIT Delhi** (Ranked in Top 10% nationally).
+* QR-based storytelling system verifying authenticity and artisan identity.
+* Blockchain digital fingerprints providing tamper-proof product records.
 
 ### 5. EV-Sim-AI 🚗
 An EV Test Drive and Trip Simulator developed during a **Shell & Edunet Foundation** virtual internship.
