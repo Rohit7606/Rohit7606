@@ -23,23 +23,23 @@ An advanced Clinical Decision Support System (CDSS) engineered for high-precisio
 * **Hybrid Clinical Engine:** Powered by **XGBoost** to normalize physiological data against patient demographics (Age/Gender/Height).
 * **Probabilistic Risk:** Delivers granular "Confidence Scores" (0-100%) rather than simple binary classifications, mimicking expert medical reasoning.
 
-### 3. WattSwap ⚡
+### 3. Voltaic 🚗
+An advanced EV Journey Intelligence Platform engineered to eliminate range anxiety using physics-backed route predictions.
+* Developed as a full-stack Progressive Web App (PWA) using **Next.js 16**, **TypeScript**, and **Supabase**.
+* Implements **Green AI** principles via a custom physics engine that calculates energy consumption based on terrain, weather, and aerodynamics.
+* Features a recursive **Auto-Rescue Algorithm** that automatically finds and injects optimal charging stops mid-route.
+
+### 4. WattSwap ⚡
 AI-driven P2P energy trading platform optimizing solar sharing in apartments.
 * ML engine forecasting surplus generation and matching users in real-time.
 * Blockchain smart contracts for secure, dispute-free automated billing.
 * Engineered logic that secured **direct qualification** into final rounds.
 
-### 4. YarnYatra 🧶
+### 5. YarnYatra 🧶
 Supply chain transparency platform for independent weavers, developed for national finals.
 * **National Finalist @ IIT Delhi** (Ranked in Top 10% nationally).
 * QR-based storytelling system verifying authenticity and artisan identity.
 * Blockchain digital fingerprints providing tamper-proof product records.
-
-### 5. EV-Sim-AI 🚗
-An EV Test Drive and Trip Simulator developed during a **Shell & Edunet Foundation** virtual internship.
-* Developed with **Streamlit** to visualize energy consumption and range.
-* Focuses on "Green skills & AI" to promote sustainable transport solutions.
-* Features interactive data visualizations for energy consumption and range estimation.
 
 ## 🛠️ Tech Stack
 
