@@ -6,8 +6,6 @@ I’m a passionate Computer Science Engineering student at Chennai Institute of 
 ## 🏅 Notable Achievements
 * 🥈 **Runner-Up @ MIT Chennai** – Secured 2nd place in a National Level Hackathon with **SentinelZero**.
 * 🏛️ **National Finalist @ IIT Delhi** – Developed **YarnYatra** at IIT Delhi; ranked in the **Top 10%** nationally.
-* ⚡ **Performance Excellence** – **WattSwap** logic was efficient enough to bypass preliminary rounds for direct final entry.
-* 🦁 **Team CodeCarnivores** – Core member of a high-impact development collective.
 
 ## 🏆 Featured Projects
 
